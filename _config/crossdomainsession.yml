@@ -1,0 +1,6 @@
+---
+Name: crossdomainsession
+---
+SiteTree:
+  extensions:
+    - CrossDomainControllerExtension
