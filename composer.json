@@ -1,0 +1,20 @@
+{
+	"name" : "silverstripe-crossdomainsession",
+	"description" : "Bring session accross domain.",
+	"type" : "silverstripe-module",
+	"keywords" : [
+		"silverstripe"
+	],
+	"authors" : [{
+			"name" : "Jason Zhang",
+			"email" : "jason.zhang@internetrix.com.au"
+		}
+	],
+	"require" : {
+		"silverstripe/framework" : "~3.1"
+	},
+	"extra" : {
+		"installer-name" : "crossdomainsession"
+	},
+	"minimum-stability" : "dev"
+}
